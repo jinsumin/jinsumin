@@ -81,7 +81,7 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 
 - 2022.07 ~ 2022.11
 - 3인 팀 프로젝트
-- 벤처창업아이템 경진대회 동상 수상 확정 (22.11.02)
+- 벤처창업아이템 경진대회 동상 수상 확정 (22.11.23 대전 수상 예정)
 - Oracle Cloud, DB Link, Spring, MyBatis, Next.js, TailwindCSS, Node.js, Cloudflare R2, vercel 
 
 ### [사회적 협동조합 ‘너른마당’ 웹 페이지 제작](https://www.madangcoop.net/)
