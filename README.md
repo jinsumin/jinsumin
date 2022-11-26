@@ -8,7 +8,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdev.soomin.world&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PORTFOLIO_PAGE_HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 저는 새로운 지식과 기술을 배우는 것을 좋아하며 경험을 공유하고 함께 성장하는 가치를 중요시합니다. <br/>
-소속감을 중요하게 생각하는 편이며 혼자보다 팀으로서 하는 일을 좋아합니다. 팀과 소통하며 시너지를 낼 수 있는 개발자가 되기 위해 노력하고 있습니다.
+소속감을 중요하게 생각하는 편이며 혼자보다 팀으로서 하는 일을 좋아합니다. <br/>
+팀과 소통하며 시너지를 낼 수 있는 개발자가 되기 위해 노력하고 있습니다.
 
 C와 Java 언어를 통해 프로그래밍을 시작하였고 자료구조, 알고리즘, 시스템프로그래밍, 운영체제, OOP와 클린코드, 리팩터링 등 관련 책을 읽고 그룹 스터디를 통해 학습해왔습니다. <br/>
 
