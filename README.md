@@ -82,20 +82,20 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 자료구조, 알�
 - 2022.07 ~ 2022.11
 - 3인 팀 프로젝트
 - KOPO START UP 벤처창업아이템경진대회 대상 고용노동부장관상 (22.11.23)
-- Oracle Cloud, DB Link, Spring, MyBatis, Next.js, TailwindCSS, Node.js, Cloudflare R2, vercel 
+- Oracle Cloud, DB Link, Spring, MyBatis, Next.js, TailwindCSS, Node.js, Cloudflare R2, Vercel 
 
 ### [사회적 협동조합 ‘너른마당’ 웹 페이지 제작](https://www.madangcoop.net/)
 
 - 2020.09 ~ 2020.11
 - 서울시청 재무부 3개월 인턴 과정
-- HTML, CSS, JavaScript, Restful API, Swagger
+- HTML, CSS, JavaScript, React, Restful API, Swagger
 
 ### [인하광장 자유게시글의 감정 분석](https://github.com/jinsumin/jinsumin/files/9024407/default.pdf)
 
 - 2018.08 ~ 2019.02
 - 3인 팀 프로젝트
 - 인하대학교 졸업 프로젝트 - 졸업 논문 작성
-- Python, Selenium, LSTM
+- Python, Selenium, Web Crawling, LSTM
 
 ---
 
